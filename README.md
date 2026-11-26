@@ -1,0 +1,3 @@
+# Ivory developer portfolio
+Open index.html locally with style.css and script.js in the same directory. No build or dependencies required.
+For GitHub Pages, create a repository named shreyavasoya.github.io, upload the three website files to its root, then choose Settings > Pages > Deploy from a branch > main > / (root). Review public content before publishing. No contact details, personal links, analytics, or original resume are included. The website uses initials rather than a full name for privacy. Project descriptions are based on the refined master resume. GitHub Pages is public; confirm you are comfortable with employment and education details before publishing.
